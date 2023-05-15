@@ -1,1 +1,1 @@
-# generating-fake-faces-using-gan
+# Generating-fake-faces-using-gan
